@@ -1,0 +1,23 @@
+body {
+    background-color: black;
+    color: white;
+    font-family: arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100wh;
+}
+h1 {
+    color: blueviolet;
+}
+img {
+    width: 300px;
+    border-radius: 15px;
+    margin-top: 20px;
+}
+a {
+    color: blueviolet;
+    text-decoration: dashed;
+    font-size: 18px;
+
+}
